@@ -23,7 +23,7 @@ function format(strings, ...values){
 }
 
 const item = 'orange'
-const price = 3.5554
+const price = 3.6554
 const store = 'coles'
 const text = format`the ${item}'s price is ${price} in ${store} yes it is `
 console.log(text)
